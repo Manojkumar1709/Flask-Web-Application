@@ -57,5 +57,3 @@ contribution to Flask, see the `contributing guidelines`_.
 
 .. _contributing guidelines: https://github.com/pallets/flask/blob/main/CONTRIBUTING.rst
 
-Links
------
